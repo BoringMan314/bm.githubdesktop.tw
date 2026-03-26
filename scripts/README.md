@@ -1,6 +1,6 @@
 # `scripts` 使用說明
 
-所有指令皆在**專案根目錄**執行（本專案資料夾名稱為 **`bm.githubdesktop.tw`**），並請已安裝 **Python 3**。
+所有指令皆在**專案根目錄**執行（本專案資料夾名稱為 **`bm-githubdesktop-tw`**），並請已安裝 **Python 3**。
 
 ---
 

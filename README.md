@@ -127,4 +127,4 @@ git push origin main
 
 ## 問題與建議
 
-歡迎使用 [GitHub Issues](https://github.com/BoringMan314/bm.githubdesktop.tw/issues) 回報（請盡量附 GitHub Desktop 版本、作業系統與重現步驟）。
+歡迎使用 [GitHub Issues](https://github.com/BoringMan314/bm-githubdesktop-tw/issues) 回報（請盡量附 GitHub Desktop 版本、作業系統與重現步驟）。
