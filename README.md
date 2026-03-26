@@ -4,7 +4,7 @@
 
 以對照表將官方 `main.js`、`renderer.js` 內介面字串替換為**繁體中文**，產出檔置於 `Windows/`，覆蓋本機安裝目錄即可套用。
 
-![介面示意](screenshot.png)
+![介面示意](screenshots/screenshot.png)
 
 ---
 
